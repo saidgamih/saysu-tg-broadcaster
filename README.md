@@ -1,5 +1,5 @@
 # About
-This is an automation python app that can send messages to all groups a user is belongs to in telegram via a predifined messages in a csv file (if you have new setup ideas feel free to submit a PR).
+This is an automation python app that can **send messages to all groups a user is belongs to in telegram** via a predifined messages in a csv file (if you have new setup ideas feel free to submit a PR).
 
 (!) Be aware that any misuse of the telegram API can cause the supension of your account, so be responsible and use that only when it's needed.
 

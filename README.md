@@ -6,10 +6,21 @@ This is an automation python app that can send messages to all groups a user is 
 # Installation and setup :
 * Install python in your machine if not installed.
 * Extract files inside a folder and run a terminal from it.
-* Setup a python virtual environment by running *python -m venv venv*
-* Get inside your python virtual environment by running *.\\venv\\Scripts\\activate*
-* Install dependencies by running *pip install -r .\\requirments.txt*
-* Run the script using the command python client\_win.py
+* Setup a python virtual environment by running
+  
+  > python -m venv venv
+  
+* Get inside your python virtual environment by running
+
+  > ./venv/Scripts/activate
+  
+* Install dependencies by running
+
+  > pip install -r ./requirments.txt
+  
+* Run the script using the command
+
+  > python client_win.py
 
 # Configuration :
 When running the app for the first time you need to configure you telegram `API ID` and `API Hash`. 
